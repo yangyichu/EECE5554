@@ -1,0 +1,2717 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\sample_consensus\ransac.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\sample_consensus\sac_model_registration.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(611,1): warning C4996: 'pcl::visualization::PointCloudColorHandler<pcl::PCLPointCloud2>::getColor': use getColor() without parameters instead
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(621): message : see declaration of 'pcl::visualization::PointCloudColorHandler<pcl::PCLPointCloud2>::getColor'
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\interactor_style.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\pcl_visualizer.h(1603,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\registration\ndt.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\filters\voxel_grid_covariance.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\yichu\source\repos\Project1\Project1\main.cpp(131,38): warning C4101: 'minor_value': unreferenced local variable
+C:\Users\yichu\source\repos\Project1\Project1\main.cpp(131,11): warning C4101: 'major_value': unreferenced local variable
+C:\Users\yichu\source\repos\Project1\Project1\main.cpp(131,24): warning C4101: 'middle_value': unreferenced local variable
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(109,1): warning C4996: 'pcl::visualization::PointCloudColorHandler<PointT>::getColor': use getColor() without parameters instead
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(119): message : see declaration of 'pcl::visualization::PointCloudColorHandler<PointT>::getColor'
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(107): message : while compiling class template member function 'vtkSmartPointer<vtkDataArray> pcl::visualization::PointCloudColorHandler<PointT>::getColor(void) const'
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(120): message : see reference to function template instantiation 'vtkSmartPointer<vtkDataArray> pcl::visualization::PointCloudColorHandler<PointT>::getColor(void) const' being compiled
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(506): message : see reference to class template instantiation 'pcl::visualization::PointCloudColorHandler<PointT>' being compiled
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\pcl_visualizer.h(906): message : see reference to class template instantiation 'pcl::visualization::PointCloudColorHandlerLabelField<pcl::PointXYZL>' being compiled
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(54): message : see reference to class template instantiation 'boost::arg<9>' being compiled
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(53): message : see reference to class template instantiation 'boost::arg<8>' being compiled
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(52): message : see reference to class template instantiation 'boost::arg<7>' being compiled
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(51): message : see reference to class template instantiation 'boost::arg<6>' being compiled
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(50): message : see reference to class template instantiation 'boost::arg<5>' being compiled
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(49): message : see reference to class template instantiation 'boost::arg<4>' being compiled
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(48): message : see reference to class template instantiation 'boost::arg<3>' being compiled
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(47): message : see reference to class template instantiation 'boost::arg<2>' being compiled
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(46): message : see reference to class template instantiation 'boost::arg<1>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\chrono(632): message : see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\chrono(178): message : see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\chrono(610): message : see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>' being compiled
+  
+  Starting pass 1
+  Processed /DEFAULTLIB:msvcprtd
+  Processed /DEFAULTLIB:uuid.lib
+  Processed /DEFAULTLIB:libboost_filesystem-vc142-mt-gd-x64-1_72.lib
+  Processed /DEFAULTLIB:libboost_date_time-vc142-mt-gd-x64-1_72.lib
+  Processed /DEFAULTLIB:Advapi32.lib
+  Processed /DEFAULTLIB:oleaut32.lib
+  Processed /DEFAULTLIB:Ole32.lib
+  Processed /DEFAULTLIB:Shell32.lib
+  Processed /DEFAULTLIB:libboost_iostreams-vc142-mt-gd-x64-1_72.lib
+  Processed /DEFAULTLIB:MSVCRTD
+  Processed /DEFAULTLIB:OLDNAMES
+  
+  Searching libraries
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_commond.lib:
+        Found "void __cdecl pcl::console::print(enum pcl::console::VERBOSITY_LEVEL,char const *,...)" (?print@console@pcl@@YAXW4VERBOSITY_LEVEL@12@PEBDZZ)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: __cdecl pcl::PCLBase<struct pcl::PointXYZ>::PCLBase<struct pcl::PointXYZ>(void)" (??0?$PCLBase@UPointXYZ@pcl@@@pcl@@QEAA@XZ)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: __cdecl pcl::PCLBase<struct pcl::PointXYZ>::PCLBase<struct pcl::PointXYZ>(class pcl::PCLBase<struct pcl::PointXYZ> const &)" (??0?$PCLBase@UPointXYZ@pcl@@@pcl@@QEAA@AEBV01@@Z)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: virtual void __cdecl pcl::PCLBase<struct pcl::PointXYZ>::setInputCloud(class boost::shared_ptr<class pcl::PointCloud<struct pcl::PointXYZ> const > const &)" (?setInputCloud@?$PCLBase@UPointXYZ@pcl@@@pcl@@UEAAXAEBV?$shared_ptr@$$CBV?$PointCloud@UPointXYZ@pcl@@@pcl@@@boost@@@Z)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: virtual void __cdecl pcl::PCLBase<struct pcl::PointXYZ>::setIndices(class boost::shared_ptr<class std::vector<int,class std::allocator<int> > > const &)" (?setIndices@?$PCLBase@UPointXYZ@pcl@@@pcl@@UEAAXAEBV?$shared_ptr@V?$vector@HV?$allocator@H@std@@@std@@@boost@@@Z)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: virtual void __cdecl pcl::PCLBase<struct pcl::PointXYZ>::setIndices(class boost::shared_ptr<class std::vector<int,class std::allocator<int> > const > const &)" (?setIndices@?$PCLBase@UPointXYZ@pcl@@@pcl@@UEAAXAEBV?$shared_ptr@$$CBV?$vector@HV?$allocator@H@std@@@std@@@boost@@@Z)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: virtual void __cdecl pcl::PCLBase<struct pcl::PointXYZ>::setIndices(class boost::shared_ptr<struct pcl::PointIndices const > const &)" (?setIndices@?$PCLBase@UPointXYZ@pcl@@@pcl@@UEAAXAEBV?$shared_ptr@$$CBUPointIndices@pcl@@@boost@@@Z)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: virtual void __cdecl pcl::PCLBase<struct pcl::PointXYZ>::setIndices(unsigned __int64,unsigned __int64,unsigned __int64,unsigned __int64)" (?setIndices@?$PCLBase@UPointXYZ@pcl@@@pcl@@UEAAX_K000@Z)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "protected: bool __cdecl pcl::PCLBase<struct pcl::PointXYZ>::initCompute(void)" (?initCompute@?$PCLBase@UPointXYZ@pcl@@@pcl@@IEAA_NXZ)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "protected: bool __cdecl pcl::PCLBase<struct pcl::PointXYZ>::deinitCompute(void)" (?deinitCompute@?$PCLBase@UPointXYZ@pcl@@@pcl@@IEAA_NXZ)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: __cdecl pcl::PCLBase<struct pcl::PointXYZI>::PCLBase<struct pcl::PointXYZI>(void)" (??0?$PCLBase@UPointXYZI@pcl@@@pcl@@QEAA@XZ)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: virtual void __cdecl pcl::PCLBase<struct pcl::PointXYZI>::setInputCloud(class boost::shared_ptr<class pcl::PointCloud<struct pcl::PointXYZI> const > const &)" (?setInputCloud@?$PCLBase@UPointXYZI@pcl@@@pcl@@UEAAXAEBV?$shared_ptr@$$CBV?$PointCloud@UPointXYZI@pcl@@@pcl@@@boost@@@Z)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: virtual void __cdecl pcl::PCLBase<struct pcl::PointXYZI>::setIndices(class boost::shared_ptr<class std::vector<int,class std::allocator<int> > > const &)" (?setIndices@?$PCLBase@UPointXYZI@pcl@@@pcl@@UEAAXAEBV?$shared_ptr@V?$vector@HV?$allocator@H@std@@@std@@@boost@@@Z)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: virtual void __cdecl pcl::PCLBase<struct pcl::PointXYZI>::setIndices(class boost::shared_ptr<class std::vector<int,class std::allocator<int> > const > const &)" (?setIndices@?$PCLBase@UPointXYZI@pcl@@@pcl@@UEAAXAEBV?$shared_ptr@$$CBV?$vector@HV?$allocator@H@std@@@std@@@boost@@@Z)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: virtual void __cdecl pcl::PCLBase<struct pcl::PointXYZI>::setIndices(class boost::shared_ptr<struct pcl::PointIndices const > const &)" (?setIndices@?$PCLBase@UPointXYZI@pcl@@@pcl@@UEAAXAEBV?$shared_ptr@$$CBUPointIndices@pcl@@@boost@@@Z)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "public: virtual void __cdecl pcl::PCLBase<struct pcl::PointXYZI>::setIndices(unsigned __int64,unsigned __int64,unsigned __int64,unsigned __int64)" (?setIndices@?$PCLBase@UPointXYZI@pcl@@@pcl@@UEAAX_K000@Z)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "protected: bool __cdecl pcl::PCLBase<struct pcl::PointXYZI>::initCompute(void)" (?initCompute@?$PCLBase@UPointXYZI@pcl@@@pcl@@IEAA_NXZ)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found "protected: bool __cdecl pcl::PCLBase<struct pcl::PointXYZI>::deinitCompute(void)" (?deinitCompute@?$PCLBase@UPointXYZI@pcl@@@pcl@@IEAA_NXZ)
+          Referenced in main.obj
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found __IMPORT_DESCRIPTOR_pcl_commond
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found __NULL_IMPORT_DESCRIPTOR
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Loaded pcl_commond.lib(pcl_commond.dll)
+        Found pcl_commond_NULL_THUNK_DATA
+          Referenced in pcl_commond.lib(pcl_commond.dll)
+          Loaded pcl_commond.lib(pcl_commond.dll)
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_featuresd.lib:
+        Found "protected: virtual void __cdecl pcl::NormalEstimation<struct pcl::PointXYZ,struct pcl::PointNormal>::computeFeature(class pcl::PointCloud<struct pcl::PointNormal> &)" (?computeFeature@?$NormalEstimation@UPointXYZ@pcl@@UPointNormal@2@@pcl@@MEAAXAEAV?$PointCloud@UPointNormal@pcl@@@2@@Z)
+          Referenced in main.obj
+          Loaded pcl_featuresd.lib(pcl_featuresd.dll)
+        Found __IMPORT_DESCRIPTOR_pcl_featuresd
+          Referenced in pcl_featuresd.lib(pcl_featuresd.dll)
+          Loaded pcl_featuresd.lib(pcl_featuresd.dll)
+        Found pcl_featuresd_NULL_THUNK_DATA
+          Referenced in pcl_featuresd.lib(pcl_featuresd.dll)
+          Loaded pcl_featuresd.lib(pcl_featuresd.dll)
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_filtersd.lib:
+        Found "protected: virtual void __cdecl pcl::CropBox<struct pcl::PointXYZ>::applyFilter(class pcl::PointCloud<struct pcl::PointXYZ> &)" (?applyFilter@?$CropBox@UPointXYZ@pcl@@@pcl@@MEAAXAEAV?$PointCloud@UPointXYZ@pcl@@@2@@Z)
+          Referenced in main.obj
+          Loaded pcl_filtersd.lib(pcl_filtersd.dll)
+        Found "protected: virtual void __cdecl pcl::CropBox<struct pcl::PointXYZ>::applyFilter(class std::vector<int,class std::allocator<int> > &)" (?applyFilter@?$CropBox@UPointXYZ@pcl@@@pcl@@MEAAXAEAV?$vector@HV?$allocator@H@std@@@std@@@Z)
+          Referenced in main.obj
+          Loaded pcl_filtersd.lib(pcl_filtersd.dll)
+        Found "protected: virtual void __cdecl pcl::PassThrough<struct pcl::PointXYZ>::applyFilter(class pcl::PointCloud<struct pcl::PointXYZ> &)" (?applyFilter@?$PassThrough@UPointXYZ@pcl@@@pcl@@MEAAXAEAV?$PointCloud@UPointXYZ@pcl@@@2@@Z)
+          Referenced in main.obj
+          Loaded pcl_filtersd.lib(pcl_filtersd.dll)
+        Found "protected: void __cdecl pcl::PassThrough<struct pcl::PointXYZ>::applyFilterIndices(class std::vector<int,class std::allocator<int> > &)" (?applyFilterIndices@?$PassThrough@UPointXYZ@pcl@@@pcl@@IEAAXAEAV?$vector@HV?$allocator@H@std@@@std@@@Z)
+          Referenced in main.obj
+          Loaded pcl_filtersd.lib(pcl_filtersd.dll)
+        Found "protected: virtual void __cdecl pcl::ExtractIndices<struct pcl::PointXYZ>::applyFilter(class pcl::PointCloud<struct pcl::PointXYZ> &)" (?applyFilter@?$ExtractIndices@UPointXYZ@pcl@@@pcl@@MEAAXAEAV?$PointCloud@UPointXYZ@pcl@@@2@@Z)
+          Referenced in main.obj
+          Loaded pcl_filtersd.lib(pcl_filtersd.dll)
+        Found "protected: void __cdecl pcl::ExtractIndices<struct pcl::PointXYZ>::applyFilterIndices(class std::vector<int,class std::allocator<int> > &)" (?applyFilterIndices@?$ExtractIndices@UPointXYZ@pcl@@@pcl@@IEAAXAEAV?$vector@HV?$allocator@H@std@@@std@@@Z)
+          Referenced in main.obj
+          Loaded pcl_filtersd.lib(pcl_filtersd.dll)
+        Found "protected: virtual void __cdecl pcl::VoxelGrid<struct pcl::PointXYZI>::applyFilter(class pcl::PointCloud<struct pcl::PointXYZI> &)" (?applyFilter@?$VoxelGrid@UPointXYZI@pcl@@@pcl@@MEAAXAEAV?$PointCloud@UPointXYZI@pcl@@@2@@Z)
+          Referenced in main.obj
+          Loaded pcl_filtersd.lib(pcl_filtersd.dll)
+        Found "protected: virtual void __cdecl pcl::VoxelGrid<struct pcl::PointXYZ>::applyFilter(class pcl::PointCloud<struct pcl::PointXYZ> &)" (?applyFilter@?$VoxelGrid@UPointXYZ@pcl@@@pcl@@MEAAXAEAV?$PointCloud@UPointXYZ@pcl@@@2@@Z)
+          Referenced in main.obj
+          Loaded pcl_filtersd.lib(pcl_filtersd.dll)
+        Found __IMPORT_DESCRIPTOR_pcl_filtersd
+          Referenced in pcl_filtersd.lib(pcl_filtersd.dll)
+          Referenced in pcl_filtersd.lib(pcl_filtersd.dll)
+          Referenced in pcl_filtersd.lib(pcl_filtersd.dll)
+          Referenced in pcl_filtersd.lib(pcl_filtersd.dll)
+          Referenced in pcl_filtersd.lib(pcl_filtersd.dll)
+          Referenced in pcl_filtersd.lib(pcl_filtersd.dll)
+          Referenced in pcl_filtersd.lib(pcl_filtersd.dll)
+          Referenced in pcl_filtersd.lib(pcl_filtersd.dll)
+          Loaded pcl_filtersd.lib(pcl_filtersd.dll)
+        Found pcl_filtersd_NULL_THUNK_DATA
+          Referenced in pcl_filtersd.lib(pcl_filtersd.dll)
+          Loaded pcl_filtersd.lib(pcl_filtersd.dll)
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_iod.lib:
+        Found "public: virtual int __cdecl pcl::PCDReader::readHeader(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct pcl::PCLPointCloud2 &,class Eigen::Matrix<float,4,1,0,4,1> &,class Eigen::Quaternion<float,0> &,int &,int &,unsigned int &,int)" (?readHeader@PCDReader@pcl@@UEAAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAUPCLPointCloud2@2@AEAV?$Matrix@M$03$00$0A@$03$00@Eigen@@AEAV?$Quaternion@M$0A@@7@AEAH4AEAIH@Z)
+          Referenced in main.obj
+          Loaded pcl_iod.lib(pcl_iod.dll)
+        Found "public: virtual int __cdecl pcl::PCDReader::read(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct pcl::PCLPointCloud2 &,class Eigen::Matrix<float,4,1,0,4,1> &,class Eigen::Quaternion<float,0> &,int &,int)" (?read@PCDReader@pcl@@UEAAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAUPCLPointCloud2@2@AEAV?$Matrix@M$03$00$0A@$03$00@Eigen@@AEAV?$Quaternion@M$0A@@7@AEAHH@Z)
+          Referenced in main.obj
+          Loaded pcl_iod.lib(pcl_iod.dll)
+        Found "public: int __cdecl pcl::PCDWriter::writeASCII(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct pcl::PCLPointCloud2 const &,class Eigen::Matrix<float,4,1,0,4,1> const &,class Eigen::Quaternion<float,0> const &,int)" (?writeASCII@PCDWriter@pcl@@QEAAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBUPCLPointCloud2@2@AEBV?$Matrix@M$03$00$0A@$03$00@Eigen@@AEBV?$Quaternion@M$0A@@7@H@Z)
+          Referenced in main.obj
+          Loaded pcl_iod.lib(pcl_iod.dll)
+        Found "public: int __cdecl pcl::PCDWriter::writeBinary(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct pcl::PCLPointCloud2 const &,class Eigen::Matrix<float,4,1,0,4,1> const &,class Eigen::Quaternion<float,0> const &)" (?writeBinary@PCDWriter@pcl@@QEAAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBUPCLPointCloud2@2@AEBV?$Matrix@M$03$00$0A@$03$00@Eigen@@AEBV?$Quaternion@M$0A@@7@@Z)
+          Referenced in main.obj
+          Loaded pcl_iod.lib(pcl_iod.dll)
+        Found __IMPORT_DESCRIPTOR_pcl_iod
+          Referenced in pcl_iod.lib(pcl_iod.dll)
+          Referenced in pcl_iod.lib(pcl_iod.dll)
+          Referenced in pcl_iod.lib(pcl_iod.dll)
+          Referenced in pcl_iod.lib(pcl_iod.dll)
+          Loaded pcl_iod.lib(pcl_iod.dll)
+        Found pcl_iod_NULL_THUNK_DATA
+          Referenced in pcl_iod.lib(pcl_iod.dll)
+          Loaded pcl_iod.lib(pcl_iod.dll)
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_io_plyd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_kdtreed.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_keypointsd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_mld.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_octreed.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_outofcored.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_peopled.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_recognitiond.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_registrationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_sample_consensusd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_searchd.lib:
+        Found "public: __cdecl pcl::search::Search<struct pcl::PointXYZ>::Search<struct pcl::PointXYZ>(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)" (??0?$Search@UPointXYZ@pcl@@@search@pcl@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const & __cdecl pcl::search::Search<struct pcl::PointXYZ>::getName(void)const " (?getName@?$Search@UPointXYZ@pcl@@@search@pcl@@UEBAAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual void __cdecl pcl::search::Search<struct pcl::PointXYZ>::setSortedResults(bool)" (?setSortedResults@?$Search@UPointXYZ@pcl@@@search@pcl@@UEAAX_N@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual bool __cdecl pcl::search::Search<struct pcl::PointXYZ>::getSortedResults(void)" (?getSortedResults@?$Search@UPointXYZ@pcl@@@search@pcl@@UEAA_NXZ)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual void __cdecl pcl::search::Search<struct pcl::PointXYZ>::setInputCloud(class boost::shared_ptr<class pcl::PointCloud<struct pcl::PointXYZ> const > const &,class boost::shared_ptr<class std::vector<int,class std::allocator<int> > const > const &)" (?setInputCloud@?$Search@UPointXYZ@pcl@@@search@pcl@@UEAAXAEBV?$shared_ptr@$$CBV?$PointCloud@UPointXYZ@pcl@@@pcl@@@boost@@AEBV?$shared_ptr@$$CBV?$vector@HV?$allocator@H@std@@@std@@@5@@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual int __cdecl pcl::search::Search<struct pcl::PointXYZ>::nearestKSearch(class pcl::PointCloud<struct pcl::PointXYZ> const &,int,int,class std::vector<int,class std::allocator<int> > &,class std::vector<float,class std::allocator<float> > &)const " (?nearestKSearch@?$Search@UPointXYZ@pcl@@@search@pcl@@UEBAHAEBV?$PointCloud@UPointXYZ@pcl@@@3@HHAEAV?$vector@HV?$allocator@H@std@@@std@@AEAV?$vector@MV?$allocator@M@std@@@6@@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual int __cdecl pcl::search::Search<struct pcl::PointXYZ>::nearestKSearch(int,int,class std::vector<int,class std::allocator<int> > &,class std::vector<float,class std::allocator<float> > &)const " (?nearestKSearch@?$Search@UPointXYZ@pcl@@@search@pcl@@UEBAHHHAEAV?$vector@HV?$allocator@H@std@@@std@@AEAV?$vector@MV?$allocator@M@std@@@5@@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual void __cdecl pcl::search::Search<struct pcl::PointXYZ>::nearestKSearch(class pcl::PointCloud<struct pcl::PointXYZ> const &,class std::vector<int,class std::allocator<int> > const &,int,class std::vector<class std::vector<int,class std::allocator<int> >,class std::allocator<class std::vector<int,class std::allocator<int> > > > &,class std::vector<class std::vector<float,class std::allocator<float> >,class std::allocator<class std::vector<float,class std::allocator<float> > > > &)const " (?nearestKSearch@?$Search@UPointXYZ@pcl@@@search@pcl@@UEBAXAEBV?$PointCloud@UPointXYZ@pcl@@@3@AEBV?$vector@HV?$allocator@H@std@@@std@@HAEAV?$vector@V?$vector@HV?$allocator@H@std@@@std@@V?$allocator@V?$vector@HV?$allocator@H@std@@@std@@@2@@6@AEAV?$vector@V?$vector@MV?$allocator@M@std@@@std@@V?$allocator@V?$vector@MV?$allocator@M@std@@@std@@@2@@6@@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual int __cdecl pcl::search::Search<struct pcl::PointXYZ>::radiusSearch(class pcl::PointCloud<struct pcl::PointXYZ> const &,int,double,class std::vector<int,class std::allocator<int> > &,class std::vector<float,class std::allocator<float> > &,unsigned int)const " (?radiusSearch@?$Search@UPointXYZ@pcl@@@search@pcl@@UEBAHAEBV?$PointCloud@UPointXYZ@pcl@@@3@HNAEAV?$vector@HV?$allocator@H@std@@@std@@AEAV?$vector@MV?$allocator@M@std@@@6@I@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual int __cdecl pcl::search::Search<struct pcl::PointXYZ>::radiusSearch(int,double,class std::vector<int,class std::allocator<int> > &,class std::vector<float,class std::allocator<float> > &,unsigned int)const " (?radiusSearch@?$Search@UPointXYZ@pcl@@@search@pcl@@UEBAHHNAEAV?$vector@HV?$allocator@H@std@@@std@@AEAV?$vector@MV?$allocator@M@std@@@5@I@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual void __cdecl pcl::search::Search<struct pcl::PointXYZ>::radiusSearch(class pcl::PointCloud<struct pcl::PointXYZ> const &,class std::vector<int,class std::allocator<int> > const &,double,class std::vector<class std::vector<int,class std::allocator<int> >,class std::allocator<class std::vector<int,class std::allocator<int> > > > &,class std::vector<class std::vector<float,class std::allocator<float> >,class std::allocator<class std::vector<float,class std::allocator<float> > > > &,unsigned int)const " (?radiusSearch@?$Search@UPointXYZ@pcl@@@search@pcl@@UEBAXAEBV?$PointCloud@UPointXYZ@pcl@@@3@AEBV?$vector@HV?$allocator@H@std@@@std@@NAEAV?$vector@V?$vector@HV?$allocator@H@std@@@std@@V?$allocator@V?$vector@HV?$allocator@H@std@@@std@@@2@@6@AEAV?$vector@V?$vector@MV?$allocator@M@std@@@std@@V?$allocator@V?$vector@MV?$allocator@M@std@@@std@@@2@@6@I@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: __cdecl pcl::search::KdTree<struct pcl::PointXYZ,class pcl::KdTreeFLANN<struct pcl::PointXYZ,struct flann::L2_Simple<float> > >::KdTree<struct pcl::PointXYZ,class pcl::KdTreeFLANN<struct pcl::PointXYZ,struct flann::L2_Simple<float> > >(bool)" (??0?$KdTree@UPointXYZ@pcl@@V?$KdTreeFLANN@UPointXYZ@pcl@@U?$L2_Simple@M@flann@@@2@@search@pcl@@QEAA@_N@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: void __cdecl pcl::search::KdTree<struct pcl::PointXYZ,class pcl::KdTreeFLANN<struct pcl::PointXYZ,struct flann::L2_Simple<float> > >::setPointRepresentation(class boost::shared_ptr<class pcl::PointRepresentation<struct pcl::PointXYZ> const > const &)" (?setPointRepresentation@?$KdTree@UPointXYZ@pcl@@V?$KdTreeFLANN@UPointXYZ@pcl@@U?$L2_Simple@M@flann@@@2@@search@pcl@@QEAAXAEBV?$shared_ptr@$$CBV?$PointRepresentation@UPointXYZ@pcl@@@pcl@@@boost@@@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual int __cdecl pcl::search::OrganizedNeighbor<struct pcl::PointXYZ>::radiusSearch(struct pcl::PointXYZ const &,double,class std::vector<int,class std::allocator<int> > &,class std::vector<float,class std::allocator<float> > &,unsigned int)const " (?radiusSearch@?$OrganizedNeighbor@UPointXYZ@pcl@@@search@pcl@@UEBAHAEBUPointXYZ@3@NAEAV?$vector@HV?$allocator@H@std@@@std@@AEAV?$vector@MV?$allocator@M@std@@@6@I@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: void __cdecl pcl::search::OrganizedNeighbor<struct pcl::PointXYZ>::estimateProjectionMatrix(void)" (?estimateProjectionMatrix@?$OrganizedNeighbor@UPointXYZ@pcl@@@search@pcl@@QEAAXXZ)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found "public: virtual int __cdecl pcl::search::OrganizedNeighbor<struct pcl::PointXYZ>::nearestKSearch(struct pcl::PointXYZ const &,int,class std::vector<int,class std::allocator<int> > &,class std::vector<float,class std::allocator<float> > &)const " (?nearestKSearch@?$OrganizedNeighbor@UPointXYZ@pcl@@@search@pcl@@UEBAHAEBUPointXYZ@3@HAEAV?$vector@HV?$allocator@H@std@@@std@@AEAV?$vector@MV?$allocator@M@std@@@6@@Z)
+          Referenced in main.obj
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found __IMPORT_DESCRIPTOR_pcl_searchd
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+        Found pcl_searchd_NULL_THUNK_DATA
+          Referenced in pcl_searchd.lib(pcl_searchd.dll)
+          Loaded pcl_searchd.lib(pcl_searchd.dll)
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_segmentationd.lib:
+        Found "public: virtual void __cdecl pcl::SACSegmentation<struct pcl::PointXYZ>::segment(struct pcl::PointIndices &,struct pcl::ModelCoefficients &)" (?segment@?$SACSegmentation@UPointXYZ@pcl@@@pcl@@UEAAXAEAUPointIndices@2@AEAUModelCoefficients@2@@Z)
+          Referenced in main.obj
+          Loaded pcl_segmentationd.lib(pcl_segmentationd.dll)
+        Found "protected: virtual bool __cdecl pcl::SACSegmentation<struct pcl::PointXYZ>::initSACModel(int)" (?initSACModel@?$SACSegmentation@UPointXYZ@pcl@@@pcl@@MEAA_NH@Z)
+          Referenced in main.obj
+          Loaded pcl_segmentationd.lib(pcl_segmentationd.dll)
+        Found "protected: virtual void __cdecl pcl::SACSegmentation<struct pcl::PointXYZ>::initSAC(int)" (?initSAC@?$SACSegmentation@UPointXYZ@pcl@@@pcl@@MEAAXH@Z)
+          Referenced in main.obj
+          Loaded pcl_segmentationd.lib(pcl_segmentationd.dll)
+        Found "public: void __cdecl pcl::EuclideanClusterExtraction<struct pcl::PointXYZ>::extract(class std::vector<struct pcl::PointIndices,class std::allocator<struct pcl::PointIndices> > &)" (?extract@?$EuclideanClusterExtraction@UPointXYZ@pcl@@@pcl@@QEAAXAEAV?$vector@UPointIndices@pcl@@V?$allocator@UPointIndices@pcl@@@std@@@std@@@Z)
+          Referenced in main.obj
+          Loaded pcl_segmentationd.lib(pcl_segmentationd.dll)
+        Found __IMPORT_DESCRIPTOR_pcl_segmentationd
+          Referenced in pcl_segmentationd.lib(pcl_segmentationd.dll)
+          Referenced in pcl_segmentationd.lib(pcl_segmentationd.dll)
+          Referenced in pcl_segmentationd.lib(pcl_segmentationd.dll)
+          Referenced in pcl_segmentationd.lib(pcl_segmentationd.dll)
+          Loaded pcl_segmentationd.lib(pcl_segmentationd.dll)
+        Found pcl_segmentationd_NULL_THUNK_DATA
+          Referenced in pcl_segmentationd.lib(pcl_segmentationd.dll)
+          Loaded pcl_segmentationd.lib(pcl_segmentationd.dll)
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_stereod.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_surfaced.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_trackingd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_visualizationd.lib:
+        Found "public: __cdecl pcl::visualization::Camera::Camera(void)" (??0Camera@visualization@pcl@@QEAA@XZ)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: __cdecl pcl::visualization::PCLVisualizer::PCLVisualizer(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)" (??0PCLVisualizer@visualization@pcl@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: void __cdecl pcl::visualization::PCLVisualizer::spinOnce(int,bool)" (?spinOnce@PCLVisualizer@visualization@pcl@@QEAAXH_N@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: void __cdecl pcl::visualization::PCLVisualizer::addCoordinateSystem(double,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?addCoordinateSystem@PCLVisualizer@visualization@pcl@@QEAAXNAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: bool __cdecl pcl::visualization::PCLVisualizer::removeAllPointClouds(int)" (?removeAllPointClouds@PCLVisualizer@visualization@pcl@@QEAA_NH@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: bool __cdecl pcl::visualization::PCLVisualizer::removeAllShapes(int)" (?removeAllShapes@PCLVisualizer@visualization@pcl@@QEAA_NH@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: void __cdecl pcl::visualization::PCLVisualizer::setBackgroundColor(double const &,double const &,double const &,int)" (?setBackgroundColor@PCLVisualizer@visualization@pcl@@QEAAXAEBN00H@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: bool __cdecl pcl::visualization::PCLVisualizer::addText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?addText@PCLVisualizer@visualization@pcl@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH0H@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: bool __cdecl pcl::visualization::PCLVisualizer::setPointCloudRenderingProperties(int,double,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?setPointCloudRenderingProperties@PCLVisualizer@visualization@pcl@@QEAA_NHNAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: bool __cdecl pcl::visualization::PCLVisualizer::setShapeRenderingProperties(int,double,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?setShapeRenderingProperties@PCLVisualizer@visualization@pcl@@QEAA_NHNAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: void __cdecl pcl::visualization::PCLVisualizer::createViewPort(double,double,double,double,int &)" (?createViewPort@PCLVisualizer@visualization@pcl@@QEAAXNNNNAEAH@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: bool __cdecl pcl::visualization::PCLVisualizer::addCube(float,float,float,float,float,float,double,double,double,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?addCube@PCLVisualizer@visualization@pcl@@QEAA_NMMMMMMNNNAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: void __cdecl pcl::visualization::PCLVisualizer::initCameraParameters(void)" (?initCameraParameters@PCLVisualizer@visualization@pcl@@QEAAXXZ)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: void __cdecl pcl::visualization::PCLVisualizer::setCameraPosition(double,double,double,double,double,double,int)" (?setCameraPosition@PCLVisualizer@visualization@pcl@@QEAAXNNNNNNH@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "private: void __cdecl pcl::visualization::PCLVisualizer::addActorToRenderer(class vtkSmartPointer<class vtkProp> const &,int)" (?addActorToRenderer@PCLVisualizer@visualization@pcl@@AEAAXAEBV?$vtkSmartPointer@VvtkProp@@@@H@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "private: void __cdecl pcl::visualization::PCLVisualizer::createActorFromVTKDataSet(class vtkSmartPointer<class vtkDataSet> const &,class vtkSmartPointer<class vtkLODActor> &,bool)" (?createActorFromVTKDataSet@PCLVisualizer@visualization@pcl@@AEAAXAEBV?$vtkSmartPointer@VvtkDataSet@@@@AEAV?$vtkSmartPointer@VvtkLODActor@@@@_N@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "private: void __cdecl pcl::visualization::PCLVisualizer::updateCells(class vtkSmartPointer<class vtkIdTypeArray> &,class vtkSmartPointer<class vtkIdTypeArray> &,__int64)" (?updateCells@PCLVisualizer@visualization@pcl@@AEAAXAEAV?$vtkSmartPointer@VvtkIdTypeArray@@@@0_J@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "private: void __cdecl pcl::visualization::PCLVisualizer::allocVtkPolyData(class vtkSmartPointer<class vtkPolyData> &)" (?allocVtkPolyData@PCLVisualizer@visualization@pcl@@AEAAXAEAV?$vtkSmartPointer@VvtkPolyData@@@@@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: static void __cdecl pcl::visualization::PCLVisualizer::convertToVtkMatrix(class Eigen::Matrix<float,4,1,0,4,1> const &,class Eigen::Quaternion<float,0> const &,class vtkSmartPointer<class vtkMatrix4x4> &)" (?convertToVtkMatrix@PCLVisualizer@visualization@pcl@@SAXAEBV?$Matrix@M$03$00$0A@$03$00@Eigen@@AEBV?$Quaternion@M$0A@@5@AEAV?$vtkSmartPointer@VvtkMatrix4x4@@@@@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: __cdecl pcl::visualization::PointCloudGeometryHandlerXYZ<struct pcl::PointXYZ>::PointCloudGeometryHandlerXYZ<struct pcl::PointXYZ>(class boost::shared_ptr<class pcl::PointCloud<struct pcl::PointXYZ> const > const &)" (??0?$PointCloudGeometryHandlerXYZ@UPointXYZ@pcl@@@visualization@pcl@@QEAA@AEBV?$shared_ptr@$$CBV?$PointCloud@UPointXYZ@pcl@@@pcl@@@boost@@@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found "public: virtual void __cdecl pcl::visualization::PointCloudGeometryHandlerXYZ<struct pcl::PointXYZ>::getGeometry(class vtkSmartPointer<class vtkPoints> &)const " (?getGeometry@?$PointCloudGeometryHandlerXYZ@UPointXYZ@pcl@@@visualization@pcl@@UEBAXAEAV?$vtkSmartPointer@VvtkPoints@@@@@Z)
+          Referenced in main.obj
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found __IMPORT_DESCRIPTOR_pcl_visualizationd
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+        Found pcl_visualizationd_NULL_THUNK_DATA
+          Referenced in pcl_visualizationd.lib(pcl_visualizationd.dll)
+          Loaded pcl_visualizationd.lib(pcl_visualizationd.dll)
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkChartsCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonColor-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonComputationalGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonCore-8.2-gd.lib:
+        Found "__declspec(dllimport) public: __cdecl vtkSmartPointerBase::vtkSmartPointerBase(void)" (__imp_??0vtkSmartPointerBase@@QEAA@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: __cdecl vtkSmartPointerBase::vtkSmartPointerBase(class vtkObjectBase *)" (__imp_??0vtkSmartPointerBase@@QEAA@PEAVvtkObjectBase@@@Z)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: __cdecl vtkSmartPointerBase::vtkSmartPointerBase(class vtkSmartPointerBase const &)" (__imp_??0vtkSmartPointerBase@@QEAA@AEBV0@@Z)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: __cdecl vtkSmartPointerBase::~vtkSmartPointerBase(void)" (__imp_??1vtkSmartPointerBase@@QEAA@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: class vtkSmartPointerBase & __cdecl vtkSmartPointerBase::operator=(class vtkObjectBase *)" (__imp_??4vtkSmartPointerBase@@QEAAAEAV0@PEAVvtkObjectBase@@@Z)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: class vtkSmartPointerBase & __cdecl vtkSmartPointerBase::operator=(class vtkSmartPointerBase const &)" (__imp_??4vtkSmartPointerBase@@QEAAAEAV0@AEBV0@@Z)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) protected: __cdecl vtkSmartPointerBase::vtkSmartPointerBase(class vtkObjectBase *,class vtkSmartPointerBase::NoReference const &)" (__imp_??0vtkSmartPointerBase@@IEAA@PEAVvtkObjectBase@@AEBVNoReference@0@@Z)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: static void __cdecl vtkObject::GlobalWarningDisplayOff(void)" (__imp_?GlobalWarningDisplayOff@vtkObject@@SAXXZ)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: void __cdecl vtkDataArray::GetRange(double * const)" (__imp_?GetRange@vtkDataArray@@QEAAXQEAN@Z)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: __int64 __cdecl vtkPoints::GetNumberOfPoints(void)" (__imp_?GetNumberOfPoints@vtkPoints@@QEAA_JXZ)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: __cdecl vtkDebugLeaksManager::vtkDebugLeaksManager(void)" (__imp_??0vtkDebugLeaksManager@@QEAA@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: __cdecl vtkDebugLeaksManager::~vtkDebugLeaksManager(void)" (__imp_??1vtkDebugLeaksManager@@QEAA@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: __cdecl vtkObjectFactoryRegistryCleanup::vtkObjectFactoryRegistryCleanup(void)" (__imp_??0vtkObjectFactoryRegistryCleanup@@QEAA@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: __cdecl vtkObjectFactoryRegistryCleanup::~vtkObjectFactoryRegistryCleanup(void)" (__imp_??1vtkObjectFactoryRegistryCleanup@@QEAA@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: void __cdecl vtkAOSDataArrayTemplate<unsigned char>::SetArray(unsigned char *,__int64,int,int)" (__imp_?SetArray@?$vtkAOSDataArrayTemplate@E@@QEAAXPEAE_JHH@Z)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: static class vtkUnsignedCharArray * __cdecl vtkUnsignedCharArray::New(void)" (__imp_?New@vtkUnsignedCharArray@@SAPEAV1@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found __IMPORT_DESCRIPTOR_vtkCommonCore-8.2-gd
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+        Found vtkCommonCore-8.2-gd_NULL_THUNK_DATA
+          Referenced in vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+          Loaded vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonDataModel-8.2-gd.lib:
+        Found "__declspec(dllimport) public: static class vtkCellArray * __cdecl vtkCellArray::New(void)" (__imp_?New@vtkCellArray@@SAPEAV1@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+        Found "__declspec(dllimport) public: void __cdecl vtkCellArray::SetCells(__int64,class vtkIdTypeArray *)" (__imp_?SetCells@vtkCellArray@@QEAAX_JPEAVvtkIdTypeArray@@@Z)
+          Referenced in main.obj
+          Loaded vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+        Found "__declspec(dllimport) public: class vtkIdTypeArray * __cdecl vtkCellArray::GetData(void)" (__imp_?GetData@vtkCellArray@@QEAAPEAVvtkIdTypeArray@@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+        Found "__declspec(dllimport) public: class vtkPointData * __cdecl vtkDataSet::GetPointData(void)" (__imp_?GetPointData@vtkDataSet@@QEAAPEAVvtkPointData@@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+        Found "__declspec(dllimport) public: void __cdecl vtkPolyData::SetVerts(class vtkCellArray *)" (__imp_?SetVerts@vtkPolyData@@QEAAXPEAVvtkCellArray@@@Z)
+          Referenced in main.obj
+          Loaded vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+        Found "__declspec(dllimport) public: class vtkCellArray * __cdecl vtkPolyData::GetVerts(void)" (__imp_?GetVerts@vtkPolyData@@QEAAPEAVvtkCellArray@@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+        Found "__declspec(dllimport) public: int __cdecl vtkDataSetAttributes::SetScalars(class vtkDataArray *)" (__imp_?SetScalars@vtkDataSetAttributes@@QEAAHPEAVvtkDataArray@@@Z)
+          Referenced in main.obj
+          Loaded vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+        Found __IMPORT_DESCRIPTOR_vtkCommonDataModel-8.2-gd
+          Referenced in vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+          Referenced in vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+          Referenced in vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+          Referenced in vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+          Referenced in vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+          Referenced in vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+          Referenced in vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+          Loaded vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+        Found vtkCommonDataModel-8.2-gd_NULL_THUNK_DATA
+          Referenced in vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+          Loaded vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonExecutionModel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonMath-8.2-gd.lib:
+        Found "__declspec(dllimport) public: static class vtkMatrix4x4 * __cdecl vtkMatrix4x4::New(void)" (__imp_?New@vtkMatrix4x4@@SAPEAV1@XZ)
+          Referenced in main.obj
+          Loaded vtkCommonMath-8.2-gd.lib(vtkCommonMath-8.2-gd.dll)
+        Found __IMPORT_DESCRIPTOR_vtkCommonMath-8.2-gd
+          Referenced in vtkCommonMath-8.2-gd.lib(vtkCommonMath-8.2-gd.dll)
+          Loaded vtkCommonMath-8.2-gd.lib(vtkCommonMath-8.2-gd.dll)
+        Found vtkCommonMath-8.2-gd_NULL_THUNK_DATA
+          Referenced in vtkCommonMath-8.2-gd.lib(vtkCommonMath-8.2-gd.dll)
+          Loaded vtkCommonMath-8.2-gd.lib(vtkCommonMath-8.2-gd.dll)
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonMisc-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonSystem-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonTransforms-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDICOMParser-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistryOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkdoubleconversion-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexodusII-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexpat-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersAMR-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersExtraction-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersFlowPaths-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneral-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneric-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHybrid-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHyperTree-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersImaging-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersModeling-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallelImaging-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersPoints-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersProgrammable-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSelection-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSMP-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSources-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersStatistics-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTexture-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTopology-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersVerdict-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkfreetype-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGeovisCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkgl2ps-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkglew-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGUISupportMFC-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5_hl-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingColor-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingFourier-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingGeneral-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingHybrid-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMath-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMorphological-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingSources-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStatistics-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStencil-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisLayout-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionStyle-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionWidgets-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAMR-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAsynchronous-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCityGML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOEnSight-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExodus-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExport-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportPDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImport-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOInfovis-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLegacy-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLSDyna-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMINC-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMovie-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIONetCDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallelXML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOPLY-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSegY-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSQL-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOTecplotTable-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVeraOut-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVideo-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXMLParser-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjpeg-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjsoncpp-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibharu-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibxml2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklz4-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklzma-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkmetaio-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkNetCDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkogg-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkParallelCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpng-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkproj-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpugixml-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingAnnotation-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContext2D-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContextOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingCore-8.2-gd.lib:
+        Found "__declspec(dllimport) public: void __cdecl vtkProp3D::SetUserMatrix(class vtkMatrix4x4 *)" (__imp_?SetUserMatrix@vtkProp3D@@QEAAXPEAVvtkMatrix4x4@@@Z)
+          Referenced in main.obj
+          Loaded vtkRenderingCore-8.2-gd.lib(vtkRenderingCore-8.2-gd.dll)
+        Found "__declspec(dllimport) public: void __cdecl vtkMapper::SetScalarRange(double * const)" (__imp_?SetScalarRange@vtkMapper@@QEAAXQEAN@Z)
+          Referenced in main.obj
+          Loaded vtkRenderingCore-8.2-gd.lib(vtkRenderingCore-8.2-gd.dll)
+        Found __IMPORT_DESCRIPTOR_vtkRenderingCore-8.2-gd
+          Referenced in vtkRenderingCore-8.2-gd.lib(vtkRenderingCore-8.2-gd.dll)
+          Referenced in vtkRenderingCore-8.2-gd.lib(vtkRenderingCore-8.2-gd.dll)
+          Loaded vtkRenderingCore-8.2-gd.lib(vtkRenderingCore-8.2-gd.dll)
+        Found vtkRenderingCore-8.2-gd_NULL_THUNK_DATA
+          Referenced in vtkRenderingCore-8.2-gd.lib(vtkRenderingCore-8.2-gd.dll)
+          Loaded vtkRenderingCore-8.2-gd.lib(vtkRenderingCore-8.2-gd.dll)
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingExternal-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingFreeType-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingGL2PSOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLabel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLOD-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolume-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolumeOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksqlite-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksys-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktheora-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktiff-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkverdict-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsContext2D-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsInfovis-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkzlib-8.2-gd.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\kernel32.lib:
+        Found __imp_GetSystemInfo
+          Referenced in main.obj
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __IMPORT_DESCRIPTOR_KERNEL32
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found KERNEL32_NULL_THUNK_DATA
+          Referenced in kernel32.lib(KERNEL32.dll)
+          Loaded kernel32.lib(KERNEL32.dll)
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\advapi32.lib:
+        Found __imp_InitializeSecurityDescriptor
+          Referenced in main.obj
+          Loaded advapi32.lib(ADVAPI32.dll)
+        Found __imp_SetSecurityDescriptorDacl
+          Referenced in main.obj
+          Loaded advapi32.lib(ADVAPI32.dll)
+        Found __IMPORT_DESCRIPTOR_ADVAPI32
+          Referenced in advapi32.lib(ADVAPI32.dll)
+          Referenced in advapi32.lib(ADVAPI32.dll)
+          Loaded advapi32.lib(ADVAPI32.dll)
+        Found ADVAPI32_NULL_THUNK_DATA
+          Referenced in advapi32.lib(ADVAPI32.dll)
+          Loaded advapi32.lib(ADVAPI32.dll)
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\msvcprtd.lib:
+        Found "__declspec(dllimport) public: __cdecl std::_Lockit::_Lockit(int)" (__imp_??0_Lockit@std@@QEAA@H@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: __cdecl std::_Lockit::~_Lockit(void)" (__imp_??1_Lockit@std@@QEAA@XZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "bool __cdecl std::uncaught_exception(void)" (?uncaught_exception@std@@YA_NXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "void __cdecl std::_Xbad_alloc(void)" (?_Xbad_alloc@std@@YAXXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "void __cdecl std::_Xlength_error(char const *)" (?_Xlength_error@std@@YAXPEBD@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "void __cdecl std::_Xout_of_range(char const *)" (?_Xout_of_range@std@@YAXPEBD@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found _Mbrtowc
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: struct _Cvtvec __cdecl std::_Locinfo::_Getcvt(void)const " (__imp_?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: char const * __cdecl std::_Locinfo::_Getdays(void)const " (__imp_?_Getdays@_Locinfo@std@@QEBAPEBDXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: char const * __cdecl std::_Locinfo::_Getmonths(void)const " (__imp_?_Getmonths@_Locinfo@std@@QEBAPEBDXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: unsigned short const * __cdecl std::_Locinfo::_W_Getdays(void)const " (__imp_?_W_Getdays@_Locinfo@std@@QEBAPEBGXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: unsigned short const * __cdecl std::_Locinfo::_W_Getmonths(void)const " (__imp_?_W_Getmonths@_Locinfo@std@@QEBAPEBGXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: bool __cdecl std::ios_base::good(void)const " (__imp_?good@ios_base@std@@QEBA_NXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: int __cdecl std::ios_base::flags(void)const " (__imp_?flags@ios_base@std@@QEBAHXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: __int64 __cdecl std::ios_base::precision(__int64)" (__imp_?precision@ios_base@std@@QEAA_J_J@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::basic_streambuf<char,struct std::char_traits<char> >(void)" (__imp_??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: virtual __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::~basic_streambuf<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)" (__imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)" (__imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::eback(void)const " (__imp_?eback@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::gptr(void)const " (__imp_?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::pbase(void)const " (__imp_?pbase@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::pptr(void)const " (__imp_?pptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::egptr(void)const " (__imp_?egptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::gbump(int)" (__imp_?gbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXH@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::setg(char *,char *,char *)" (__imp_?setg@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD00@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::epptr(void)const " (__imp_?epptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::setp(char *,char *)" (__imp_?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD0@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::setp(char *,char *,char *)" (__imp_?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD00@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: char * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Pninc(void)" (__imp_?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: virtual __cdecl std::basic_ios<char,struct std::char_traits<char> >::~basic_ios<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)" (__imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: class std::basic_ios<char,struct std::char_traits<char> > & __cdecl std::basic_ios<char,struct std::char_traits<char> >::copyfmt(class std::basic_ios<char,struct std::char_traits<char> > const &)" (__imp_?copyfmt@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAAEAV12@AEBV12@@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::tie(void)const " (__imp_?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const " (__imp_?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::fill(void)const " (__imp_?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: char __cdecl std::basic_ios<char,struct std::char_traits<char> >::widen(char)const " (__imp_?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) protected: __cdecl std::basic_ios<char,struct std::char_traits<char> >::basic_ios<char,struct std::char_traits<char> >(void)" (__imp_??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: void __cdecl std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)" (__imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > & (__cdecl*)(class std::basic_ostream<char,struct std::char_traits<char> > &))" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(unsigned __int64)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@_K@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::operator<<(float)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@M@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::put(char)" (__imp_?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::basic_ostream<char,struct std::char_traits<char> >::flush(void)" (__imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: class std::basic_istream<char,struct std::char_traits<char> > & __cdecl std::basic_istream<char,struct std::char_traits<char> >::operator>>(double &)" (__imp_??5?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@AEAN@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: __cdecl std::basic_iostream<char,struct std::char_traits<char> >::basic_iostream<char,struct std::char_traits<char> >(class std::basic_streambuf<char,struct std::char_traits<char> > *)" (__imp_??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) public: virtual __cdecl std::basic_iostream<char,struct std::char_traits<char> >::~basic_iostream<char,struct std::char_traits<char> >(void)" (__imp_??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UEAA@XZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "public: virtual void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Lock(void)" (?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "public: virtual void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::_Unlock(void)" (?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "protected: virtual void __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::imbue(class std::locale const &)" (?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "protected: virtual class std::basic_streambuf<char,struct std::char_traits<char> > * __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::setbuf(char *,__int64)" (?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "protected: virtual __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::showmanyc(void)" (?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "protected: virtual int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::sync(void)" (?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "protected: virtual int __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::uflow(void)" (?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "protected: virtual __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::xsgetn(char *,__int64)" (?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "protected: virtual __int64 __cdecl std::basic_streambuf<char,struct std::char_traits<char> >::xsputn(char const *,__int64)" (?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
+          Referenced in main.obj
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found __IMPORT_DESCRIPTOR_MSVCP140D
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+        Found MSVCP140D_NULL_THUNK_DATA
+          Referenced in msvcprtd.lib(MSVCP140D.dll)
+          Loaded msvcprtd.lib(MSVCP140D.dll)
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_filesystem-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_date_time-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_iostreams-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\MSVCRTD.lib:
+        Found "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z)
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(new_scalar.obj)
+        Found "void __cdecl operator delete(void *,unsigned __int64)" (??3@YAXPEAX_K@Z)
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(delete_scalar_size.obj)
+        Found "void * __cdecl operator new[](unsigned __int64)" (??_U@YAPEAX_K@Z)
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(new_array.obj)
+        Found atexit
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(utility.obj)
+        Found _Init_thread_header
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(thread_safe_statics.obj)
+        Found _RTC_AllocaHelper
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(stack.obj)
+        Found _RTC_InitBase
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(init.obj)
+        Found __CheckForDebuggerJustMyCode
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(debugger_jmc.obj)
+        Found __GSHandlerCheck
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(gshandler.obj)
+        Found __GSHandlerCheck_EH4
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(gshandlereh4.obj)
+        Found __chkstk
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(chkstk.obj)
+        Found __security_check_cookie
+          Referenced in main.obj
+          Referenced in MSVCRTD.lib(gshandler.obj)
+          Loaded MSVCRTD.lib(amdsecgs.obj)
+        Found "const type_info::`vftable'" (??_7type_info@@6B@)
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(std_type_info_static.obj)
+        Found __security_cookie
+          Referenced in main.obj
+          Referenced in MSVCRTD.lib(amdsecgs.obj)
+          Loaded MSVCRTD.lib(gs_cookie.obj)
+        Found _fltused
+          Referenced in main.obj
+          Loaded MSVCRTD.lib(fltused.obj)
+        Found _tls_index
+          Referenced in main.obj
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Loaded MSVCRTD.lib(tlssup.obj)
+        Found mainCRTStartup
+          Loaded MSVCRTD.lib(exe_main.obj)
+        Found "void __cdecl __scrt_throw_std_bad_alloc(void)" (?__scrt_throw_std_bad_alloc@@YAXXZ)
+          Referenced in MSVCRTD.lib(new_scalar.obj)
+          Loaded MSVCRTD.lib(throw_bad_alloc.obj)
+        Found "void __cdecl operator delete(void *)" (??3@YAXPEAX@Z)
+          Referenced in MSVCRTD.lib(delete_scalar_size.obj)
+          Loaded MSVCRTD.lib(delete_scalar.obj)
+        Found __isa_available_init
+          Referenced in MSVCRTD.lib(utility.obj)
+          Loaded MSVCRTD.lib(cpu_disp.obj)
+        Found _get_startup_argv_mode
+          Referenced in MSVCRTD.lib(utility.obj)
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(argv_mode.obj)
+        Found __scrt_is_ucrt_dll_in_use
+          Referenced in MSVCRTD.lib(utility.obj)
+          Loaded MSVCRTD.lib(ucrt_detection.obj)
+        Found __scrt_fastfail
+          Referenced in MSVCRTD.lib(utility.obj)
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(utility_desktop.obj)
+        Found __guard_dispatch_icall_fptr
+          Referenced in MSVCRTD.lib(utility.obj)
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(guard_support.obj)
+        Found "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z)
+          Referenced in MSVCRTD.lib(stack.obj)
+          Loaded MSVCRTD.lib(error.obj)
+        Found _RTC_SetErrorFuncW
+          Referenced in MSVCRTD.lib(init.obj)
+          Loaded MSVCRTD.lib(userapi.obj)
+        Found __report_gsfailure
+          Referenced in MSVCRTD.lib(amdsecgs.obj)
+          Loaded MSVCRTD.lib(gs_report.obj)
+        Found __security_init_cookie
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(gs_support.obj)
+        Found _matherr
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(matherr.obj)
+        Found _get_startup_commit_mode
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(commit_mode.obj)
+        Found _get_startup_file_mode
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(file_mode.obj)
+        Found _get_startup_new_mode
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(new_mode.obj)
+        Found _get_startup_thread_locale_mode
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(thread_locale.obj)
+        Found "void __cdecl __scrt_initialize_type_info(void)" (?__scrt_initialize_type_info@@YAXXZ)
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(tncleanup.obj)
+        Found _should_initialize_environment
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(env_mode.obj)
+        Found _initialize_invalid_parameter_handler
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(invalid_parameter_handler.obj)
+        Found _initialize_denormal_control
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(denormal_control.obj)
+        Found __scrt_initialize_default_local_stdio_options
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(default_local_stdio_options.obj)
+        Found __scrt_is_user_matherr_present
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(matherr_detection.obj)
+        Found __scrt_get_dyn_tls_init_callback
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(dyn_tls_init.obj)
+        Found __scrt_get_dyn_tls_dtor_callback
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(dyn_tls_dtor.obj)
+        Found _RTC_Initialize
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(initsect.obj)
+        Found __xi_a
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded MSVCRTD.lib(initializers.obj)
+  Processed /DEFAULTLIB:kernel32.lib
+   Processed /DISALLOWLIB:msvcrt.lib
+   Processed /DISALLOWLIB:libcmt.lib
+   Processed /DISALLOWLIB:libcmtd.lib
+   Processed /DISALLOWLIB:vcruntime.lib
+  Processed /DEFAULTLIB:vcruntimed.lib
+   Processed /DISALLOWLIB:libvcruntime.lib
+   Processed /DISALLOWLIB:libvcruntimed.lib
+   Processed /DISALLOWLIB:ucrt.lib
+  Processed /DEFAULTLIB:ucrtd.lib
+   Processed /DISALLOWLIB:libucrt.lib
+   Processed /DISALLOWLIB:libucrtd.lib
+        Found _guard_dispatch_icall_nop
+          Referenced in MSVCRTD.lib(guard_support.obj)
+          Loaded MSVCRTD.lib(guard_dispatch.obj)
+        Found "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPEAEPEA_WKPEAH1K@Z)
+          Referenced in MSVCRTD.lib(error.obj)
+          Loaded MSVCRTD.lib(pdblkup.obj)
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\vcruntimed.lib:
+        Found _purecall
+          Referenced in main.obj
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __std_exception_copy
+          Referenced in main.obj
+          Referenced in MSVCRTD.lib(throw_bad_alloc.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __std_exception_destroy
+          Referenced in main.obj
+          Referenced in MSVCRTD.lib(throw_bad_alloc.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found memcmp
+          Referenced in main.obj
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found memcpy
+          Referenced in main.obj
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found memmove
+          Referenced in main.obj
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found memset
+          Referenced in main.obj
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __std_type_info_compare
+          Referenced in main.obj
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found _CxxThrowException
+          Referenced in main.obj
+          Referenced in MSVCRTD.lib(throw_bad_alloc.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __CxxFrameHandler4
+          Referenced in main.obj
+          Referenced in MSVCRTD.lib(gshandlereh4.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140_1D.dll)
+        Found __C_specific_handler
+          Referenced in MSVCRTD.lib(utility.obj)
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __current_exception
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __current_exception_context
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __C_specific_handler_noexcept
+          Referenced in MSVCRTD.lib(error.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __std_type_info_destroy_list
+          Referenced in MSVCRTD.lib(tncleanup.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __vcrt_GetModuleFileNameW
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __vcrt_GetModuleHandleW
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __vcrt_LoadLibraryExW
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __IMPORT_DESCRIPTOR_VCRUNTIME140D
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found __IMPORT_DESCRIPTOR_VCRUNTIME140_1D
+          Referenced in vcruntimed.lib(VCRUNTIME140_1D.dll)
+          Loaded vcruntimed.lib(VCRUNTIME140_1D.dll)
+        Found VCRUNTIME140D_NULL_THUNK_DATA
+          Referenced in vcruntimed.lib(VCRUNTIME140D.dll)
+          Loaded vcruntimed.lib(VCRUNTIME140D.dll)
+        Found VCRUNTIME140_1D_NULL_THUNK_DATA
+          Referenced in vcruntimed.lib(VCRUNTIME140_1D.dll)
+          Loaded vcruntimed.lib(VCRUNTIME140_1D.dll)
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64\ucrtd.lib:
+        Found __imp__invalid_parameter
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp__calloc_dbg
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp__CrtDbgReport
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp__fdtest
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found atan2
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found fabs
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found sqrt
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp_round
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp_log2f
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp_roundf
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp_atan2f
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp_ceilf
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp_cosf
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp_sinf
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp_sqrtf
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp_free
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp_malloc
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp_wcslen
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found strcmp
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found strlen
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp__findfirst64i32
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __imp__findnext64i32
+          Referenced in main.obj
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _callnewh
+          Referenced in MSVCRTD.lib(new_scalar.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _seh_filter_dll
+          Referenced in MSVCRTD.lib(utility.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _configure_narrow_argv
+          Referenced in MSVCRTD.lib(utility.obj)
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _initialize_narrow_environment
+          Referenced in MSVCRTD.lib(utility.obj)
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _initialize_onexit_table
+          Referenced in MSVCRTD.lib(utility.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _register_onexit_function
+          Referenced in MSVCRTD.lib(utility.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _execute_onexit_table
+          Referenced in MSVCRTD.lib(utility.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _crt_atexit
+          Referenced in MSVCRTD.lib(utility.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _crt_at_quick_exit
+          Referenced in MSVCRTD.lib(utility.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _cexit
+          Referenced in MSVCRTD.lib(utility.obj)
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _CrtDbgReportW
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Referenced in MSVCRTD.lib(init.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _seh_filter_exe
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _set_app_type
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __setusermatherr
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _get_initial_narrow_environment
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _initterm
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _initterm_e
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found exit
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _exit
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _set_fmode
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __p___argc
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __p___argv
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _c_exit
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _register_thread_local_exe_atexit_callback
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _configthreadlocale
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _set_new_mode
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __p__commode
+          Referenced in MSVCRTD.lib(exe_main.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _free_dbg
+          Referenced in MSVCRTD.lib(delete_scalar.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found terminate
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found strcpy_s
+          Referenced in MSVCRTD.lib(error.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found strcat_s
+          Referenced in MSVCRTD.lib(error.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __stdio_common_vsprintf_s
+          Referenced in MSVCRTD.lib(error.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _wmakepath_s
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found _wsplitpath_s
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found wcscpy_s
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found __IMPORT_DESCRIPTOR_ucrtbased
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Loaded ucrtd.lib(ucrtbased.dll)
+        Found ucrtbased_NULL_THUNK_DATA
+          Referenced in ucrtd.lib(ucrtbased.dll)
+          Loaded ucrtd.lib(ucrtbased.dll)
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_commond.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_featuresd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_filtersd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_iod.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_io_plyd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_kdtreed.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_keypointsd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_mld.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_octreed.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_outofcored.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_peopled.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_recognitiond.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_registrationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_sample_consensusd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_searchd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_segmentationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_stereod.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_surfaced.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_trackingd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_visualizationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkChartsCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonColor-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonComputationalGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonDataModel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonExecutionModel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonMath-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonMisc-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonSystem-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonTransforms-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDICOMParser-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistryOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkdoubleconversion-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexodusII-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexpat-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersAMR-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersExtraction-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersFlowPaths-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneral-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneric-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHybrid-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHyperTree-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersImaging-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersModeling-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallelImaging-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersPoints-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersProgrammable-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSelection-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSMP-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSources-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersStatistics-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTexture-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTopology-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersVerdict-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkfreetype-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGeovisCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkgl2ps-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkglew-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGUISupportMFC-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5_hl-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingColor-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingFourier-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingGeneral-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingHybrid-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMath-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMorphological-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingSources-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStatistics-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStencil-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisLayout-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionStyle-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionWidgets-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAMR-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAsynchronous-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCityGML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOEnSight-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExodus-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExport-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportPDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImport-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOInfovis-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLegacy-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLSDyna-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMINC-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMovie-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIONetCDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallelXML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOPLY-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSegY-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSQL-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOTecplotTable-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVeraOut-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVideo-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXMLParser-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjpeg-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjsoncpp-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibharu-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibxml2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklz4-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklzma-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkmetaio-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkNetCDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkogg-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkParallelCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpng-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkproj-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpugixml-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingAnnotation-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContext2D-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContextOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingExternal-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingFreeType-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingGL2PSOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLabel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLOD-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolume-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolumeOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksqlite-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksys-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktheora-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktiff-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkverdict-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsContext2D-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsInfovis-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkzlib-8.2-gd.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\kernel32.lib:
+        Found __imp_CloseHandle
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_EnterCriticalSection
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_LeaveCriticalSection
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_InitializeCriticalSectionAndSpinCount
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_DeleteCriticalSection
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_SetEvent
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_ResetEvent
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_WaitForSingleObjectEx
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_CreateEventW
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_GetModuleHandleW
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_GetProcAddress
+          Referenced in MSVCRTD.lib(thread_safe_statics.obj)
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_GetCurrentThreadId
+          Referenced in MSVCRTD.lib(debugger_jmc.obj)
+          Referenced in MSVCRTD.lib(gs_support.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_RtlCaptureContext
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Referenced in MSVCRTD.lib(gs_report.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_RtlLookupFunctionEntry
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Referenced in MSVCRTD.lib(gs_report.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_RtlVirtualUnwind
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Referenced in MSVCRTD.lib(gs_report.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_IsDebuggerPresent
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Referenced in MSVCRTD.lib(error.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_UnhandledExceptionFilter
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Referenced in MSVCRTD.lib(gs_report.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_SetUnhandledExceptionFilter
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Referenced in MSVCRTD.lib(gs_report.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_GetStartupInfoW
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found IsProcessorFeaturePresent
+          Referenced in MSVCRTD.lib(utility_desktop.obj)
+          Referenced in MSVCRTD.lib(gs_report.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_RaiseException
+          Referenced in MSVCRTD.lib(error.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_MultiByteToWideChar
+          Referenced in MSVCRTD.lib(error.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_WideCharToMultiByte
+          Referenced in MSVCRTD.lib(error.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_GetCurrentProcess
+          Referenced in MSVCRTD.lib(gs_report.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_TerminateProcess
+          Referenced in MSVCRTD.lib(gs_report.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_QueryPerformanceCounter
+          Referenced in MSVCRTD.lib(gs_support.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_GetCurrentProcessId
+          Referenced in MSVCRTD.lib(gs_support.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_GetSystemTimeAsFileTime
+          Referenced in MSVCRTD.lib(gs_support.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_InitializeSListHead
+          Referenced in MSVCRTD.lib(tncleanup.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_GetLastError
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_HeapAlloc
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_HeapFree
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_GetProcessHeap
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_VirtualQuery
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+        Found __imp_FreeLibrary
+          Referenced in MSVCRTD.lib(pdblkup.obj)
+          Loaded kernel32.lib(KERNEL32.dll)
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_filesystem-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_date_time-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_iostreams-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\MSVCRTD.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64\ucrtd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_commond.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_featuresd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_filtersd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_iod.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_io_plyd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_kdtreed.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_keypointsd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_mld.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_octreed.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_outofcored.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_peopled.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_recognitiond.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_registrationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_sample_consensusd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_searchd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_segmentationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_stereod.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_surfaced.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_trackingd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_visualizationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkChartsCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonColor-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonComputationalGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonDataModel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonExecutionModel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonMath-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonMisc-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonSystem-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonTransforms-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDICOMParser-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistryOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkdoubleconversion-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexodusII-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexpat-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersAMR-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersExtraction-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersFlowPaths-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneral-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneric-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHybrid-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHyperTree-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersImaging-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersModeling-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallelImaging-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersPoints-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersProgrammable-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSelection-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSMP-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSources-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersStatistics-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTexture-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTopology-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersVerdict-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkfreetype-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGeovisCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkgl2ps-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkglew-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGUISupportMFC-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5_hl-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingColor-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingFourier-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingGeneral-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingHybrid-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMath-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMorphological-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingSources-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStatistics-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStencil-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisLayout-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionStyle-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionWidgets-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAMR-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAsynchronous-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCityGML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOEnSight-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExodus-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExport-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportPDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImport-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOInfovis-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLegacy-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLSDyna-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMINC-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMovie-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIONetCDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallelXML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOPLY-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSegY-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSQL-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOTecplotTable-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVeraOut-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVideo-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXMLParser-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjpeg-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjsoncpp-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibharu-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibxml2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklz4-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklzma-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkmetaio-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkNetCDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkogg-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkParallelCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpng-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkproj-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpugixml-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingAnnotation-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContext2D-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContextOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingExternal-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingFreeType-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingGL2PSOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLabel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLOD-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolume-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolumeOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksqlite-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksys-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktheora-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktiff-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkverdict-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsContext2D-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsInfovis-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkzlib-8.2-gd.lib:
+  
+  Finished searching libraries
+  
+  Searching libraries
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_commond.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_featuresd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_filtersd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_iod.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_io_plyd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_kdtreed.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_keypointsd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_mld.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_octreed.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_outofcored.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_peopled.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_recognitiond.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_registrationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_sample_consensusd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_searchd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_segmentationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_stereod.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_surfaced.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_trackingd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_visualizationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkChartsCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonColor-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonComputationalGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonDataModel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonExecutionModel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonMath-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonMisc-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonSystem-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonTransforms-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDICOMParser-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistryOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkdoubleconversion-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexodusII-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexpat-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersAMR-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersExtraction-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersFlowPaths-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneral-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneric-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHybrid-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHyperTree-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersImaging-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersModeling-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallelImaging-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersPoints-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersProgrammable-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSelection-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSMP-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSources-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersStatistics-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTexture-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTopology-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersVerdict-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkfreetype-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGeovisCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkgl2ps-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkglew-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGUISupportMFC-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5_hl-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingColor-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingFourier-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingGeneral-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingHybrid-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMath-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMorphological-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingSources-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStatistics-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStencil-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisLayout-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionStyle-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionWidgets-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAMR-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAsynchronous-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCityGML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOEnSight-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExodus-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExport-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportPDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImport-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOInfovis-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLegacy-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLSDyna-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMINC-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMovie-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIONetCDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallelXML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOPLY-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSegY-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSQL-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOTecplotTable-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVeraOut-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVideo-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXMLParser-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjpeg-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjsoncpp-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibharu-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibxml2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklz4-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklzma-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkmetaio-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkNetCDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkogg-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkParallelCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpng-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkproj-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpugixml-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingAnnotation-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContext2D-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContextOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingExternal-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingFreeType-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingGL2PSOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLabel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLOD-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolume-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolumeOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksqlite-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksys-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktheora-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktiff-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkverdict-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsContext2D-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsInfovis-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkzlib-8.2-gd.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_filesystem-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_date_time-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_iostreams-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\MSVCRTD.lib:
+        Found __scrt_stub_for_acrt_initialize
+          Loaded MSVCRTD.lib(ucrt_stubs.obj)
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\OLDNAMES.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\vcruntimed.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64\ucrtd.lib:
+  
+  Finished searching libraries
+  
+  Finished pass 1
+  
+  
+  Searching libraries
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_commond.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_featuresd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_filtersd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_iod.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_io_plyd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_kdtreed.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_keypointsd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_mld.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_octreed.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_outofcored.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_peopled.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_recognitiond.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_registrationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_sample_consensusd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_searchd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_segmentationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_stereod.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_surfaced.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_trackingd.lib:
+      Searching C:\Program Files\PCL 1.10.1\lib\pcl_visualizationd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkChartsCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonColor-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonComputationalGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonDataModel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonExecutionModel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonMath-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonMisc-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonSystem-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonTransforms-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDICOMParser-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistryOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkdoubleconversion-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexodusII-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexpat-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersAMR-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersExtraction-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersFlowPaths-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneral-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneric-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHybrid-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHyperTree-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersImaging-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersModeling-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallelImaging-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersPoints-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersProgrammable-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSelection-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSMP-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSources-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersStatistics-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTexture-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTopology-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersVerdict-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkfreetype-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGeovisCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkgl2ps-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkglew-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGUISupportMFC-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5_hl-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingColor-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingFourier-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingGeneral-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingHybrid-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMath-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMorphological-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingSources-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStatistics-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStencil-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisLayout-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionStyle-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionWidgets-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAMR-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAsynchronous-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCityGML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOEnSight-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExodus-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExport-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportPDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOGeometry-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImport-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOInfovis-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLegacy-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLSDyna-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMINC-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMovie-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIONetCDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallelXML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOPLY-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSegY-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSQL-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOTecplotTable-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVeraOut-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVideo-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXML-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXMLParser-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjpeg-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjsoncpp-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibharu-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibxml2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklz4-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklzma-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkmetaio-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkNetCDF-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkogg-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkParallelCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpng-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkproj-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpugixml-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingAnnotation-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContext2D-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContextOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingExternal-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingFreeType-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingGL2PSOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingImage-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLabel-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLOD-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolume-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolumeOpenGL2-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksqlite-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksys-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktheora-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktiff-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkverdict-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsContext2D-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsCore-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsInfovis-8.2-gd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkzlib-8.2-gd.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\kernel32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\user32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\gdi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\winspool.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\comdlg32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\advapi32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\shell32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\ole32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\oleaut32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\uuid.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\odbc32.lib:
+      Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\odbccp32.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\msvcprtd.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_filesystem-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_date_time-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_iostreams-vc142-mt-gd-x64-1_72.lib:
+      Searching C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\MSVCRTD.lib:
+        Found _load_config_used
+          Loaded MSVCRTD.lib(loadcfg.obj)
+  
+  Finished searching libraries
+  
+  Invoking rc.exe:
+   /v
+   /x
+   /fo
+   "C:\Users\yichu\AppData\Local\Temp\lnk{ADBC32C1-D654-4A5F-BC74-7D9C9A84ADC5}.tmp"
+   "C:\Users\yichu\AppData\Local\Temp\lnk{8F5D25A2-7D2D-4DD1-B64F-679C7ED5CBC4}.tmp"
+  Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+  
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  
+  Creating C:\Users\yichu\AppData\Local\Temp\lnk{ADBC32C1-D654-4A5F-BC74-7D9C9A84ADC5}.tmp
+  
+  Using codepage 936 as default
+  
+  C:\Users\yichu\AppData\Local\Temp\lnk{8F5D25A2-7D2D-4DD1-B64F-679C7ED5CBC4}.tmp.
+  Writing 24:1,	lang:0x409,	size 381
+  
+  Invoking cvtres.exe:
+   /machine:amd64
+   /verbose
+   /out:"C:\Users\yichu\AppData\Local\Temp\lnk{96FF6105-C9A6-4D67-BC88-812B626C6B9C}.tmp"
+   /readonly
+   "C:\Users\yichu\AppData\Local\Temp\lnk{ADBC32C1-D654-4A5F-BC74-7D9C9A84ADC5}.tmp"
+  Microsoft (R) Windows Resource To Object Converter Version 14.24.28316.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  adding resource. type:MANIFEST, name:1, language:0x0409, flags:0x30, size:381
+  
+  
+  Unused libraries:
+    C:\Program Files\PCL 1.10.1\lib\pcl_io_plyd.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_kdtreed.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_keypointsd.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_mld.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_octreed.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_outofcored.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_peopled.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_recognitiond.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_registrationd.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_sample_consensusd.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_stereod.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_surfaced.lib
+    C:\Program Files\PCL 1.10.1\lib\pcl_trackingd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkChartsCore-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonColor-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonComputationalGeometry-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonExecutionModel-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonMisc-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonSystem-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkCommonTransforms-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDICOMParser-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistry-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkDomainsChemistryOpenGL2-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkdoubleconversion-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexodusII-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkexpat-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersAMR-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersCore-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersExtraction-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersFlowPaths-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneral-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeneric-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersGeometry-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHybrid-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersHyperTree-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersImaging-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersModeling-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallel-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersParallelImaging-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersPoints-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersProgrammable-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSelection-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSMP-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersSources-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersStatistics-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTexture-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersTopology-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkFiltersVerdict-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkfreetype-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGeovisCore-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkgl2ps-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkglew-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkGUISupportMFC-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkhdf5_hl-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingColor-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingCore-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingFourier-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingGeneral-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingHybrid-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMath-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingMorphological-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingSources-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStatistics-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkImagingStencil-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisCore-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInfovisLayout-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionImage-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionStyle-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkInteractionWidgets-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAMR-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOAsynchronous-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCityGML-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOCore-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOEnSight-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExodus-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExport-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportOpenGL2-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOExportPDF-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOGeometry-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImage-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOImport-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOInfovis-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLegacy-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOLSDyna-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMINC-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOMovie-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIONetCDF-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallel-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOParallelXML-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOPLY-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSegY-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOSQL-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOTecplotTable-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVeraOut-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOVideo-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXML-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkIOXMLParser-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjpeg-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkjsoncpp-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibharu-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklibxml2-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklz4-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtklzma-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkmetaio-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkNetCDF-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkogg-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkParallelCore-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpng-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkproj-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkpugixml-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingAnnotation-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContext2D-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingContextOpenGL2-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingExternal-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingFreeType-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingGL2PSOpenGL2-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingImage-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLabel-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingLOD-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingOpenGL2-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolume-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkRenderingVolumeOpenGL2-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksqlite-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtksys-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktheora-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtktiff-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkverdict-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsContext2D-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsCore-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkViewsInfovis-8.2-gd.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\VTK\lib\vtkzlib-8.2-gd.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\user32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\gdi32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\winspool.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\comdlg32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\shell32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\ole32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\oleaut32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\uuid.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\odbc32.lib
+    C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64\odbccp32.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_filesystem-vc142-mt-gd-x64-1_72.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_date_time-vc142-mt-gd-x64-1_72.lib
+    C:\Program Files\PCL 1.10.1\3rdParty\Boost\lib\libboost_iostreams-vc142-mt-gd-x64-1_72.lib
+    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64\OLDNAMES.lib
+  
+  Starting pass 2
+       * linker generated manifest res *
+       main.obj
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_commond.lib(pcl_commond.dll)
+       pcl_featuresd.lib(pcl_featuresd.dll)
+       pcl_featuresd.lib(pcl_featuresd.dll)
+       pcl_featuresd.lib(pcl_featuresd.dll)
+       pcl_filtersd.lib(pcl_filtersd.dll)
+       pcl_filtersd.lib(pcl_filtersd.dll)
+       pcl_filtersd.lib(pcl_filtersd.dll)
+       pcl_filtersd.lib(pcl_filtersd.dll)
+       pcl_filtersd.lib(pcl_filtersd.dll)
+       pcl_filtersd.lib(pcl_filtersd.dll)
+       pcl_filtersd.lib(pcl_filtersd.dll)
+       pcl_filtersd.lib(pcl_filtersd.dll)
+       pcl_filtersd.lib(pcl_filtersd.dll)
+       pcl_filtersd.lib(pcl_filtersd.dll)
+       pcl_iod.lib(pcl_iod.dll)
+       pcl_iod.lib(pcl_iod.dll)
+       pcl_iod.lib(pcl_iod.dll)
+       pcl_iod.lib(pcl_iod.dll)
+       pcl_iod.lib(pcl_iod.dll)
+       pcl_iod.lib(pcl_iod.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_searchd.lib(pcl_searchd.dll)
+       pcl_segmentationd.lib(pcl_segmentationd.dll)
+       pcl_segmentationd.lib(pcl_segmentationd.dll)
+       pcl_segmentationd.lib(pcl_segmentationd.dll)
+       pcl_segmentationd.lib(pcl_segmentationd.dll)
+       pcl_segmentationd.lib(pcl_segmentationd.dll)
+       pcl_segmentationd.lib(pcl_segmentationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       pcl_visualizationd.lib(pcl_visualizationd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonCore-8.2-gd.lib(vtkCommonCore-8.2-gd.dll)
+       vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+       vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+       vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+       vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+       vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+       vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+       vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+       vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+       vtkCommonDataModel-8.2-gd.lib(vtkCommonDataModel-8.2-gd.dll)
+       vtkCommonMath-8.2-gd.lib(vtkCommonMath-8.2-gd.dll)
+       vtkCommonMath-8.2-gd.lib(vtkCommonMath-8.2-gd.dll)
+       vtkCommonMath-8.2-gd.lib(vtkCommonMath-8.2-gd.dll)
+       vtkRenderingCore-8.2-gd.lib(vtkRenderingCore-8.2-gd.dll)
+       vtkRenderingCore-8.2-gd.lib(vtkRenderingCore-8.2-gd.dll)
+       vtkRenderingCore-8.2-gd.lib(vtkRenderingCore-8.2-gd.dll)
+       vtkRenderingCore-8.2-gd.lib(vtkRenderingCore-8.2-gd.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       kernel32.lib(KERNEL32.dll)
+       advapi32.lib(ADVAPI32.dll)
+       advapi32.lib(ADVAPI32.dll)
+       advapi32.lib(ADVAPI32.dll)
+       advapi32.lib(ADVAPI32.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       msvcprtd.lib(MSVCP140D.dll)
+       MSVCRTD.lib(amdsecgs.obj)
+       MSVCRTD.lib(chkstk.obj)
+       MSVCRTD.lib(guard_dispatch.obj)
+       MSVCRTD.lib(gs_cookie.obj)
+       MSVCRTD.lib(gs_report.obj)
+       MSVCRTD.lib(gs_support.obj)
+       MSVCRTD.lib(debugger_jmc.obj)
+       MSVCRTD.lib(guard_support.obj)
+       MSVCRTD.lib(loadcfg.obj)
+       MSVCRTD.lib(dyn_tls_dtor.obj)
+       MSVCRTD.lib(dyn_tls_init.obj)
+       MSVCRTD.lib(matherr_detection.obj)
+       MSVCRTD.lib(ucrt_detection.obj)
+       MSVCRTD.lib(cpu_disp.obj)
+       MSVCRTD.lib(argv_mode.obj)
+       MSVCRTD.lib(commit_mode.obj)
+       MSVCRTD.lib(default_local_stdio_options.obj)
+       MSVCRTD.lib(denormal_control.obj)
+       MSVCRTD.lib(env_mode.obj)
+       MSVCRTD.lib(file_mode.obj)
+       MSVCRTD.lib(fltused.obj)
+       MSVCRTD.lib(invalid_parameter_handler.obj)
+       MSVCRTD.lib(matherr.obj)
+       MSVCRTD.lib(new_mode.obj)
+       MSVCRTD.lib(thread_locale.obj)
+       MSVCRTD.lib(std_type_info_static.obj)
+       MSVCRTD.lib(tncleanup.obj)
+       MSVCRTD.lib(delete_scalar.obj)
+       MSVCRTD.lib(delete_scalar_size.obj)
+       MSVCRTD.lib(new_array.obj)
+       MSVCRTD.lib(new_scalar.obj)
+       MSVCRTD.lib(throw_bad_alloc.obj)
+       MSVCRTD.lib(thread_safe_statics.obj)
+       MSVCRTD.lib(exe_main.obj)
+       MSVCRTD.lib(tlssup.obj)
+       MSVCRTD.lib(initializers.obj)
+       MSVCRTD.lib(utility.obj)
+       MSVCRTD.lib(ucrt_stubs.obj)
+       MSVCRTD.lib(utility_desktop.obj)
+       MSVCRTD.lib(error.obj)
+       MSVCRTD.lib(init.obj)
+       MSVCRTD.lib(initsect.obj)
+       MSVCRTD.lib(pdblkup.obj)
+       MSVCRTD.lib(stack.obj)
+       MSVCRTD.lib(userapi.obj)
+       MSVCRTD.lib(gshandler.obj)
+       MSVCRTD.lib(gshandlereh4.obj)
+       vcruntimed.lib(VCRUNTIME140_1D.dll)
+       vcruntimed.lib(VCRUNTIME140_1D.dll)
+       vcruntimed.lib(VCRUNTIME140_1D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       vcruntimed.lib(VCRUNTIME140D.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+       ucrtd.lib(ucrtbased.dll)
+  Finished pass 2
+  Project1.vcxproj -> C:\Users\yichu\source\repos\Project1\x64\Debug\Final Project.exe

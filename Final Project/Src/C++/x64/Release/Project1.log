@@ -1,0 +1,125 @@
+﻿  2.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(59,1): error C2116: 'boost::interprocess::winapi::CreateDirectoryA': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(944): message : see declaration of 'boost::interprocess::winapi::CreateDirectoryA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(59,1): error C2733: 'CreateDirectoryA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(944,48): message : see declaration of 'boost::interprocess::winapi::CreateDirectoryA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(87,1): error C2116: 'boost::interprocess::winapi::CreateFileA': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(931): message : see declaration of 'boost::interprocess::winapi::CreateFileA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(87,1): error C2733: 'CreateFileA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(931,51): message : see declaration of 'boost::interprocess::winapi::CreateFileA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(233,1): error C2116: 'boost::interprocess::winapi::FindFirstFileA': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(915): message : see declaration of 'boost::interprocess::winapi::FindFirstFileA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(233,1): error C2733: 'FindFirstFileA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(915,50): message : see declaration of 'boost::interprocess::winapi::FindFirstFileA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(322,1): error C2116: 'boost::interprocess::winapi::FindNextFileA': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(916): message : see declaration of 'boost::interprocess::winapi::FindNextFileA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(322,1): error C2733: 'FindNextFileA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(916,50): message : see declaration of 'boost::interprocess::winapi::FindNextFileA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(651,1): error C2116: 'boost::interprocess::winapi::GetFileInformationByHandle': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(963): message : see declaration of 'boost::interprocess::winapi::GetFileInformationByHandle'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(651,1): error C2733: 'GetFileInformationByHandle': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(963,50): message : see declaration of 'boost::interprocess::winapi::GetFileInformationByHandle'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(681,1): error C2116: 'boost::interprocess::winapi::GetFileSizeEx': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(937): message : see declaration of 'boost::interprocess::winapi::GetFileSizeEx'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(681,1): error C2733: 'GetFileSizeEx': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(937,48): message : see declaration of 'boost::interprocess::winapi::GetFileSizeEx'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(690,1): error C2371: 'boost::interprocess::winapi::GetFileType': redefinition; different basic types
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(914): message : see declaration of 'boost::interprocess::winapi::GetFileType'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(690,1): error C2733: 'GetFileType': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(914,49): message : see declaration of 'boost::interprocess::winapi::GetFileType'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(984,1): error C2116: 'boost::interprocess::winapi::LockFileEx': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(953): message : see declaration of 'boost::interprocess::winapi::LockFileEx'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(984,1): error C2733: 'LockFileEx': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(953,48): message : see declaration of 'boost::interprocess::winapi::LockFileEx'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(1024,1): error C2116: 'boost::interprocess::winapi::ReadFile': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(956): message : see declaration of 'boost::interprocess::winapi::ReadFile'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(1024,1): error C2733: 'ReadFile': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(956,48): message : see declaration of 'boost::interprocess::winapi::ReadFile'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(1150,1): error C2116: 'boost::interprocess::winapi::SetFilePointerEx': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(950): message : see declaration of 'boost::interprocess::winapi::SetFilePointerEx'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(1150,1): error C2733: 'SetFilePointerEx': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(950,48): message : see declaration of 'boost::interprocess::winapi::SetFilePointerEx'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(1209,1): error C2116: 'boost::interprocess::winapi::UnlockFileEx': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(954): message : see declaration of 'boost::interprocess::winapi::UnlockFileEx'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(1209,1): error C2733: 'UnlockFileEx': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(954,48): message : see declaration of 'boost::interprocess::winapi::UnlockFileEx'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(1221,1): error C2116: 'boost::interprocess::winapi::WriteFile': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(955): message : see declaration of 'boost::interprocess::winapi::WriteFile'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(1221,1): error C2733: 'WriteFile': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(955,48): message : see declaration of 'boost::interprocess::winapi::WriteFile'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(1462,1): error C2371: 'boost::interprocess::winapi::GetTempPathA': redefinition; different basic types
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(946): message : see declaration of 'boost::interprocess::winapi::GetTempPathA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(1462,1): error C2733: 'GetTempPathA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(946,48): message : see declaration of 'boost::interprocess::winapi::GetTempPathA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(428,1): error C2116: 'boost::interprocess::winapi::CreateMutexA': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(920): message : see declaration of 'boost::interprocess::winapi::CreateMutexA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h(428,1): error C2733: 'CreateMutexA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(920,51): message : see declaration of 'boost::interprocess::winapi::CreateMutexA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processthreadsapi.h(106,1): error C2116: 'boost::interprocess::winapi::GetProcessTimes': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(898): message : see declaration of 'boost::interprocess::winapi::GetProcessTimes'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processthreadsapi.h(106,1): error C2733: 'GetProcessTimes': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(898,48): message : see declaration of 'boost::interprocess::winapi::GetProcessTimes'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(95,1): error C2116: 'boost::interprocess::winapi::GetSystemInfo': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(932): message : see declaration of 'boost::interprocess::winapi::GetSystemInfo'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(95,1): error C2733: 'GetSystemInfo': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(932,49): message : see declaration of 'boost::interprocess::winapi::GetSystemInfo'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h(273,1): error C2116: 'boost::interprocess::winapi::FlushViewOfFile': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(933): message : see declaration of 'boost::interprocess::winapi::FlushViewOfFile'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h(273,1): error C2733: 'FlushViewOfFile': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(933,48): message : see declaration of 'boost::interprocess::winapi::FlushViewOfFile'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h(282,1): error C2116: 'boost::interprocess::winapi::UnmapViewOfFile': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(924): message : see declaration of 'boost::interprocess::winapi::UnmapViewOfFile'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h(282,1): error C2733: 'UnmapViewOfFile': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(924,48): message : see declaration of 'boost::interprocess::winapi::UnmapViewOfFile'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h(186,1): error C2116: 'boost::interprocess::winapi::FreeLibrary': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(960): message : see declaration of 'boost::interprocess::winapi::FreeLibrary'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h(186,1): error C2733: 'FreeLibrary': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(960,50): message : see declaration of 'boost::interprocess::winapi::FreeLibrary'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h(260,1): error C2371: 'boost::interprocess::winapi::GetModuleHandleA': redefinition; different basic types
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(962): message : see declaration of 'boost::interprocess::winapi::GetModuleHandleA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h(260,1): error C2733: 'GetModuleHandleA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(962,52): message : see declaration of 'boost::interprocess::winapi::GetModuleHandleA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h(342,1): error C2116: 'boost::interprocess::winapi::GetProcAddress': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(961): message : see declaration of 'boost::interprocess::winapi::GetProcAddress'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h(342,1): error C2733: 'GetProcAddress': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(961,54): message : see declaration of 'boost::interprocess::winapi::GetProcAddress'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h(663,1): error C2371: 'boost::interprocess::winapi::LoadLibraryA': redefinition; different basic types
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(959): message : see declaration of 'boost::interprocess::winapi::LoadLibraryA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h(663,1): error C2733: 'LoadLibraryA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(959,52): message : see declaration of 'boost::interprocess::winapi::LoadLibraryA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securitybaseapi.h(1054,1): error C2116: 'boost::interprocess::winapi::InitializeSecurityDescriptor': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(957): message : see declaration of 'boost::interprocess::winapi::InitializeSecurityDescriptor'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securitybaseapi.h(1054,1): error C2733: 'InitializeSecurityDescriptor': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(957,48): message : see declaration of 'boost::interprocess::winapi::InitializeSecurityDescriptor'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securitybaseapi.h(1390,1): error C2116: 'boost::interprocess::winapi::SetSecurityDescriptorDacl': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(958): message : see declaration of 'boost::interprocess::winapi::SetSecurityDescriptorDacl'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securitybaseapi.h(1390,1): error C2733: 'SetSecurityDescriptorDacl': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(958,48): message : see declaration of 'boost::interprocess::winapi::SetSecurityDescriptorDacl'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(3098,1): error C2116: 'boost::interprocess::winapi::CreateSemaphoreA': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(925): message : see declaration of 'boost::interprocess::winapi::CreateSemaphoreA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(3098,1): error C2733: 'CreateSemaphoreA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(925,51): message : see declaration of 'boost::interprocess::winapi::CreateSemaphoreA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(3208,1): error C2116: 'boost::interprocess::winapi::CreateFileMappingA': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(928): message : see declaration of 'boost::interprocess::winapi::CreateFileMappingA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(3208,1): error C2733: 'CreateFileMappingA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(928,51): message : see declaration of 'boost::interprocess::winapi::CreateFileMappingA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h(212,1): error C2116: 'boost::interprocess::winapi::RegCloseKey': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(968): message : see declaration of 'boost::interprocess::winapi::RegCloseKey'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h(212,1): error C2733: 'RegCloseKey': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(968,49): message : see declaration of 'boost::interprocess::winapi::RegCloseKey'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h(692,1): error C2116: 'boost::interprocess::winapi::RegOpenKeyExA': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(966): message : see declaration of 'boost::interprocess::winapi::RegOpenKeyExA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h(692,1): error C2733: 'RegOpenKeyExA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(966,49): message : see declaration of 'boost::interprocess::winapi::RegOpenKeyExA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h(848,1): error C2116: 'boost::interprocess::winapi::RegQueryValueExA': function parameter lists do not match between declarations
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(967): message : see declaration of 'boost::interprocess::winapi::RegQueryValueExA'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h(848,1): error C2733: 'RegQueryValueExA': you cannot overload a function with 'extern "C"' linkage
+C:\Program Files\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\interprocess\detail\win32_api.hpp(967,49): message : see declaration of 'boost::interprocess::winapi::RegQueryValueExA'
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\sample_consensus\ransac.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\sample_consensus\sac_model_registration.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(611,1): warning C4996: 'pcl::visualization::PointCloudColorHandler<pcl::PCLPointCloud2>::getColor': use getColor() without parameters instead
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(621): message : see declaration of 'pcl::visualization::PointCloudColorHandler<pcl::PCLPointCloud2>::getColor'
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\interactor_style.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\visualization\pcl_visualizer.h(1603,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\registration\ndt.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files\PCL 1.10.1\include\pcl-1.10\pcl\filters\voxel_grid_covariance.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
