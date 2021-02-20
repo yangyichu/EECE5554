@@ -54,7 +54,7 @@ ROS Toolbox                     -1.0
     - **subplot2 is mapping result** 
     - **subplot3 is yaw angle calculated from filter and raw input from IMU**
     - **subplot4 is Localization trajectory and GPS trajectory** 
-    - ![image](https://github.com/yangyichu/EECE5554/blob/main/C%2B%2B%20user%20interface.jpg)
+    - ![image](https://github.com/yangyichu/EECE5554/blob/main/MATLAB%20user%20interface.jpg)
 
 ## For C++ Project
 - **For C++ project, you can open main.cpp and read the codes. If you want to see the result, you need to install the project.**
